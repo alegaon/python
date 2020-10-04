@@ -1,0 +1,41 @@
+debager
+    detectar errores
+
+errores de sintaxis
+    error ortografico
+errores de ejecucion
+    por ejecutar operacopmes qie dam error
+    bucles infinitos
+debugger
+
+    debugger nativo
+    breakpoint()   == para parar el codigo en plena ejecicion
+        next == para que ejecute paso a paso
+        step "o" s 
+        continue == para que se termine de ejecutar
+
+variables
+    True
+    False
+
+    type(a) == conocer tipo de datos
+
+    int
+    float
+    str 
+    bool
+
+tipado dinamico
+    si
+
+fuertemente tipado
+    convertir a float()
+                str()
+                bool()
+
+OPERADOR TERNARIO
+    camino_verdaderp if condicion else camino_falso
+
+entrada de datos    
+    input(" ")
+    int(input("")) == para convertirlo|
